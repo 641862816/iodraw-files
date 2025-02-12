@@ -128,16 +128,16 @@
           <mxGeometry x="637.5" y="435" width="82" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-1" value="&lt;font color=&quot;#ffffff&quot;&gt;电流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="623" width="65" height="33" as="geometry" />
+          <mxGeometry x="165" y="624" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-2" value="&lt;font color=&quot;#ffffff&quot;&gt;电压&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="258.5" y="624" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-3" value="&lt;font color=&quot;#ffffff&quot;&gt;动态补偿&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="431" y="624" width="65" height="33" as="geometry" />
+          <mxGeometry x="450" y="624" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-4" value="&lt;font color=&quot;#ffffff&quot;&gt;静态补偿&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="624" width="65" height="33" as="geometry" />
+          <mxGeometry x="350.5" y="624" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-5" value="&lt;font color=&quot;#ffffff&quot;&gt;相位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="624" width="65" height="33" as="geometry" />
