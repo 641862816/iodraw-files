@@ -79,11 +79,8 @@
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-32" value="物联网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="166" y="573" width="534" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-33" value="电流" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="171" y="623" width="59" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-34" value="电压" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="241" y="623" width="59" height="35" as="geometry" />
+          <mxGeometry x="257" y="622" width="59" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-35" value="动态补偿" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="391" y="623" width="59" height="35" as="geometry" />
@@ -143,7 +140,7 @@
           <mxGeometry x="637.5" y="435" width="82" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-1" value="&lt;font color=&quot;#ffffff&quot;&gt;电流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="576" y="623" width="76" height="33" as="geometry" />
+          <mxGeometry x="165" y="623" width="76" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
