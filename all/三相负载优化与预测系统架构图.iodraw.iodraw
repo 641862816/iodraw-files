@@ -77,7 +77,7 @@
           <mxGeometry x="300" y="533" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-32" value="物联网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="166" y="573" width="254" height="35" as="geometry" />
+          <mxGeometry x="166" y="573" width="524" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-33" value="电流" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="171" y="623" width="59" height="35" as="geometry" />
@@ -126,9 +126,6 @@
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-48" value="量子强化学习" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="356" width="96" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="396" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-50" value="控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7AC441;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="636.5" y="275" width="82" height="36" as="geometry" />
