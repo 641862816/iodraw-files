@@ -136,8 +136,11 @@
         <mxCell id="2quFBk4e2wweRBtTKHXY-2" value="&lt;font color=&quot;#ffffff&quot;&gt;电压&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="623" width="65" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="2quFBk4e2wweRBtTKHXY-3" value="&lt;font color=&quot;#ffffff&quot;&gt;静态补偿&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="2quFBk4e2wweRBtTKHXY-3" value="&lt;font color=&quot;#ffffff&quot;&gt;动态补偿&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="624" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2quFBk4e2wweRBtTKHXY-4" value="&lt;font color=&quot;#ffffff&quot;&gt;静态补偿&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316" y="624" width="65" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
