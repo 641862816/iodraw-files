@@ -25,9 +25,6 @@
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-9" value="算力协同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="203" y="169" width="214" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-12" value="非关系型数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="533" width="100" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="266" width="481" height="130" as="geometry" />
         </mxCell>
@@ -140,12 +137,12 @@
           <mxGeometry x="188.5" y="460" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-8" value="时序数据库" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="460" width="70" height="60" as="geometry" />
+          <mxGeometry x="290" y="460" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-9" value="非关系数据库" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="460" width="83" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2quFBk4e2wweRBtTKHXY-10" value="非关系数据库" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="2quFBk4e2wweRBtTKHXY-10" value="......" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="46" height="60" as="geometry" />
         </mxCell>
       </root>
