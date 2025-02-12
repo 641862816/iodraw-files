@@ -143,7 +143,10 @@
           <mxGeometry x="300" y="460" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-9" value="非关系数据库" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="417" y="460" width="83" height="60" as="geometry" />
+          <mxGeometry x="391.5" y="460" width="83" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2quFBk4e2wweRBtTKHXY-10" value="非关系数据库" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="46" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
