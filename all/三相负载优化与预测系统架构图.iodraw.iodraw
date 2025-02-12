@@ -79,17 +79,8 @@
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-32" value="物联网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="166" y="573" width="534" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-34" value="电压" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="320" y="700" width="59" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-35" value="动态补偿" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="530" y="623" width="59" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-36" value="相位" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="610" y="623" width="59" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-37" value="静态补偿" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="517" y="650" width="59" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-38" value="多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="276" width="86" height="30" as="geometry" />
@@ -146,7 +137,7 @@
           <mxGeometry x="239.5" y="623" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2quFBk4e2wweRBtTKHXY-3" value="&lt;font color=&quot;#ffffff&quot;&gt;静态补偿&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="316" y="623" width="65" height="33" as="geometry" />
+          <mxGeometry x="400" y="624" width="65" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
