@@ -26,7 +26,7 @@
           <mxGeometry x="477" y="171.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-9" value="算力协同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="203" y="169" width="107" height="35" as="geometry" />
+          <mxGeometry x="203" y="172" width="107" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="266" width="481" height="130" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-22" value="应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="637.5" y="161" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Ura5xbyGhu_zBjA-H5K-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=22;direction=south;notch=0;" parent="1" vertex="1">
+        <mxCell id="6Ura5xbyGhu_zBjA-H5K-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=22;direction=south;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="319" y="169" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=22;direction=south;notch=0;rotation=-90;" parent="1" vertex="1">
