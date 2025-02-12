@@ -77,7 +77,7 @@
           <mxGeometry x="300" y="533" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-32" value="物联网" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="166" y="573" width="524" height="35" as="geometry" />
+          <mxGeometry x="166" y="573" width="534" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6Ura5xbyGhu_zBjA-H5K-33" value="电流" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="171" y="623" width="59" height="35" as="geometry" />
