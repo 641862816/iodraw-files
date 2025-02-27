@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-46" value="3、若硬盘状态为安全丢失，&lt;div&gt;则执行格式化硬盘&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-45">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-46" value="1、外网账号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-45">
           <mxGeometry x="-0.0052" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
