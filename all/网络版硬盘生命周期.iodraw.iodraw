@@ -148,8 +148,8 @@
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-31" value="云平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="654" y="550" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-33" value="设备状态查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="508" width="100" height="30" as="geometry" />
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-33" value="硬盘格式化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="508" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-38" value="硬盘" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="220" y="550" width="100" height="300" as="geometry" />
