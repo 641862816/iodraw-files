@@ -324,15 +324,15 @@
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719.5" y="1420" as="sourcePoint" />
-            <mxPoint x="479.5" y="1420" as="targetPoint" />
+            <mxPoint x="720" y="1410" as="sourcePoint" />
+            <mxPoint x="480" y="1410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="1420" />
-              <mxPoint x="640" y="1420" />
+              <mxPoint x="640.5" y="1410" />
+              <mxPoint x="640.5" y="1410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-77" value="6、授权通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-76">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-77" value="5、返回密钥分量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-76">
           <mxGeometry x="0.0542" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
