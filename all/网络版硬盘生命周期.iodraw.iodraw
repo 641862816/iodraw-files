@@ -286,6 +286,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="709.5" y="980" as="sourcePoint" />
+            <mxPoint x="469.5" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="980" />
+              <mxPoint x="630" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-69" value="4、授权通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-68">
+          <mxGeometry x="0.0542" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
