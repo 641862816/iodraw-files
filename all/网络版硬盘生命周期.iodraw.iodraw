@@ -296,7 +296,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-69" value="4、授权通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-68">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-69" value="2、无改账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-68">
           <mxGeometry x="0.0542" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
