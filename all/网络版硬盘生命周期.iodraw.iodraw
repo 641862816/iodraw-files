@@ -200,7 +200,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-49" value="2、设备状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-48">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-49" value="4、授权通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-48">
           <mxGeometry x="0.0542" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
