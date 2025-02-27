@@ -102,6 +102,9 @@
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-21" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="251" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-27" value="配置工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
