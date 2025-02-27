@@ -99,7 +99,7 @@
             <mxPoint x="780" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-21" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-21" value="云平台模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="251" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaOXsbXzX9_z-OiOwQsJ-27" target="VaOXsbXzX9_z-OiOwQsJ-5">
@@ -107,6 +107,9 @@
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-27" value="客户端模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
