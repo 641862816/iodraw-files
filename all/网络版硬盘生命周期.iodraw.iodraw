@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-36" value="1、遍历自定义、默认云平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-34">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-36" value="1、设备ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-34">
           <mxGeometry x="-0.0375" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
