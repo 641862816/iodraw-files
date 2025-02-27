@@ -190,11 +190,13 @@
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-47" value="客户端模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="420" y="890" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" source="VaOXsbXzX9_z-OiOwQsJ-50" target="VaOXsbXzX9_z-OiOwQsJ-47" parent="1">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="709.5" y="1070" as="sourcePoint" />
+            <mxPoint x="469.5" y="1070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="1080" />
-              <mxPoint x="590" y="1150" />
+              <mxPoint x="630" y="1070" />
+              <mxPoint x="630" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
