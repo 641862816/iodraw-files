@@ -21,6 +21,9 @@
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-3" value="报废" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="130" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaOXsbXzX9_z-OiOwQsJ-4" target="VaOXsbXzX9_z-OiOwQsJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-4" value="丢失" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="650" y="320" width="70" height="70" as="geometry" />
         </mxCell>
