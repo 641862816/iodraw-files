@@ -443,7 +443,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-91" value="2、无改账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-90">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-91" value="2、账号认证通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-90">
           <mxGeometry x="0.0542" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
