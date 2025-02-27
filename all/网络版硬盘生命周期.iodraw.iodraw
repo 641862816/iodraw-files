@@ -170,11 +170,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-57" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-43">
-          <mxGeometry x="-0.0208" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" source="VaOXsbXzX9_z-OiOwQsJ-47" target="VaOXsbXzX9_z-OiOwQsJ-51" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
