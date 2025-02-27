@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-34">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-36" value="1、遍历自定义、默认云平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-34">
           <mxGeometry x="-0.0375" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -126,6 +126,11 @@
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="VaOXsbXzX9_z-OiOwQsJ-31" target="VaOXsbXzX9_z-OiOwQsJ-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-35">
+          <mxGeometry x="0.0542" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-31" value="云平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="480" y="550" width="100" height="300" as="geometry" />
