@@ -66,8 +66,16 @@
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-17" value="出厂设置模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="250" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaOXsbXzX9_z-OiOwQsJ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-19" value="配置工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-21" value="配置工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
