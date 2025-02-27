@@ -174,15 +174,15 @@
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="469.5" y="970" as="sourcePoint" />
-            <mxPoint x="239.5" y="970" as="targetPoint" />
+            <mxPoint x="469.5" y="980" as="sourcePoint" />
+            <mxPoint x="239.5" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="970" />
-              <mxPoint x="340" y="970" />
+              <mxPoint x="340" y="980" />
+              <mxPoint x="340" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-46" value="1、外网账号存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-45">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-46" value="3、外网该账号存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-45">
           <mxGeometry x="-0.0052" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
