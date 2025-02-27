@@ -174,11 +174,11 @@
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="469.5" y="980" as="sourcePoint" />
-            <mxPoint x="239.5" y="980" as="targetPoint" />
+            <mxPoint x="469.5" y="990" as="sourcePoint" />
+            <mxPoint x="239.5" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="980" />
-              <mxPoint x="340" y="980" />
+              <mxPoint x="340" y="990" />
+              <mxPoint x="340" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -221,7 +221,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-59" value="2、设备ID、外网账号信息获取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-58">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-59" value="4、设备ID、外网账号信息获取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-58">
           <mxGeometry x="-0.0375" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -288,11 +288,11 @@
         </mxCell>
         <mxCell id="VaOXsbXzX9_z-OiOwQsJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="709.5" y="980" as="sourcePoint" />
-            <mxPoint x="469.5" y="980" as="targetPoint" />
+            <mxPoint x="709.5" y="990" as="sourcePoint" />
+            <mxPoint x="469.5" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="980" />
-              <mxPoint x="630" y="980" />
+              <mxPoint x="630" y="990" />
+              <mxPoint x="630" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
