@@ -485,7 +485,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-105" value="1、设备ID、账号信息认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-104">
+        <mxCell id="VaOXsbXzX9_z-OiOwQsJ-105" value="1、转让、授权申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaOXsbXzX9_z-OiOwQsJ-104">
           <mxGeometry x="-0.0375" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
