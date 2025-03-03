@@ -454,6 +454,9 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-4" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="2100" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-5" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2100" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
