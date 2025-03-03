@@ -478,8 +478,11 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-13" value="硬盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="2570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-14" value="主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-14" value="硬盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="2650" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-15" value="主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="2600" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
