@@ -499,6 +499,9 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-17" value="安全存储+签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="2600" width="56" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
