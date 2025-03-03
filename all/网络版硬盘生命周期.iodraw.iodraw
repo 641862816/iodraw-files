@@ -727,7 +727,7 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-105" value="客户端模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="3310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-106" value="硬盘生命周期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-106" value="硬盘生命周期+系统模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="3300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
