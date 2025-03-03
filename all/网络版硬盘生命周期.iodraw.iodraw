@@ -359,7 +359,7 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF3333;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-1" target="pywWxbMTsQQFMJK9H5WN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-110" value="证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-109">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-110" value="证书+签名&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-109">
           <mxGeometry x="-0.208" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
