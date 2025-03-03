@@ -443,10 +443,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2060" width="420" height="170" as="geometry" />
+          <mxGeometry x="110" y="2060" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-2" value="内网云平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2060" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="2060" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-3" value="资产管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="2100" width="60" height="60" as="geometry" />
@@ -456,6 +456,21 @@
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-5" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="2100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2060" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-7" value="内网云平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2060" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-8" value="资产管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-9" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-10" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2100" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
