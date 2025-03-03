@@ -630,7 +630,7 @@
           <mxGeometry x="754" y="2450" width="636" height="270" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-108" value="架构图信任链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="754" y="2450" width="60" height="30" as="geometry" />
+          <mxGeometry x="754" y="2450" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
