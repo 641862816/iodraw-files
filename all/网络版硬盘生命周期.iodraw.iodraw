@@ -553,7 +553,7 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="2180" width="200" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-46" value="厂商" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-46" value="客户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="2180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-47" value="出厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
