@@ -530,7 +530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-38" value="架构图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2308" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="2000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-39" value="角色定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="2000" width="60" height="30" as="geometry" />
@@ -668,6 +668,9 @@
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-78" value="客户端模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="2910" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-79" value="架构图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
