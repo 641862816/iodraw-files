@@ -719,7 +719,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-103" value="云平台模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3521" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="3521" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-105" target="pywWxbMTsQQFMJK9H5WN-91">
           <mxGeometry relative="1" as="geometry" />
