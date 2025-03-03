@@ -463,9 +463,6 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-7" value="外网云平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="2060" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-8" value="资产管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2100" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-9" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="2100" width="60" height="60" as="geometry" />
         </mxCell>
