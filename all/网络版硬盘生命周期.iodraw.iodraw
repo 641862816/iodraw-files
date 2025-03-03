@@ -502,8 +502,8 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-25" value="客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="2390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="2470" width="60" height="30" as="geometry" />
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-27" value="USB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="2450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
