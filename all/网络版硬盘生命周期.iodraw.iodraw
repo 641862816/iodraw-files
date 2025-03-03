@@ -476,7 +476,7 @@
           <mxGeometry x="625" y="2100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2390" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="2390" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-13" value="硬盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="2570" width="60" height="30" as="geometry" />
@@ -500,10 +500,10 @@
           <mxGeometry x="540" y="2600" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-25" value="客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2390" width="60" height="30" as="geometry" />
+          <mxGeometry x="275" y="2390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="2440" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="2470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
