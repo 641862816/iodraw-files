@@ -599,9 +599,9 @@
             <mxPoint x="590" y="3370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-103" target="pywWxbMTsQQFMJK9H5WN-86">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="3557" as="targetPoint" />
+            <mxPoint x="860" y="3620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-103">
@@ -609,9 +609,9 @@
             <mxPoint x="524" y="3456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.057;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-103" target="pywWxbMTsQQFMJK9H5WN-84">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="765" y="3461" as="targetPoint" />
+            <mxPoint x="770" y="3460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-103" value="云平台模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
