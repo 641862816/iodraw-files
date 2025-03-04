@@ -648,7 +648,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-143" value="（硬盘CPUID+内网证书）&lt;div&gt;内网私钥签名&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-115">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-143" value="&lt;font color=&quot;#ff3333&quot;&gt;（硬盘CPUID+内网证书）&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;内网私钥签名&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-115">
           <mxGeometry x="-0.4941" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -735,7 +735,7 @@
           <mxGeometry x="550" y="3920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-145" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;（硬盘CPUID+内网证书）&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;内网私钥签名&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="4385" width="150" height="35" as="geometry" />
+          <mxGeometry x="444" y="4400" width="150" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
