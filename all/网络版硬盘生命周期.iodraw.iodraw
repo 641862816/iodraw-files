@@ -734,8 +734,8 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-142" value="1、内网公钥&lt;div&gt;2、外网公钥&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="3920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="4385" width="120" height="60" as="geometry" />
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-145" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;（硬盘CPUID+内网证书）&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;内网私钥签名&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="4385" width="150" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
