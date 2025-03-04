@@ -581,6 +581,11 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-95" target="pywWxbMTsQQFMJK9H5WN-83">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="3481" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="3516" />
+              <mxPoint x="190" y="3516" />
+              <mxPoint x="190" y="3456" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-95" value="出厂设置模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -749,7 +754,7 @@
         <mxCell id="pywWxbMTsQQFMJK9H5WN-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pywWxbMTsQQFMJK9H5WN-122" target="pywWxbMTsQQFMJK9H5WN-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-149" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-148">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-149" value="验证通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-148">
           <mxGeometry x="0.027" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
