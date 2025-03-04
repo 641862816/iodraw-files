@@ -723,11 +723,6 @@
             <mxPoint x="590" y="4190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-139" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-138">
-          <mxGeometry x="0.0234" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-141" value="1、内网公钥&lt;div&gt;2、外网公钥&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="3920" width="80" height="40" as="geometry" />
         </mxCell>
