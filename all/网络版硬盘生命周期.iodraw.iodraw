@@ -653,11 +653,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-144" value="硬盘CPUID+外网公钥&lt;div&gt;私钥签名&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-115">
-          <mxGeometry x="-0.4941" relative="1" as="geometry">
-            <mxPoint x="375" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pywWxbMTsQQFMJK9H5WN-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="3800" width="270" height="170" as="geometry" />
         </mxCell>
