@@ -648,7 +648,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pywWxbMTsQQFMJK9H5WN-143" value="硬盘CPUID+外网公钥&lt;div&gt;私钥签名&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-115">
+        <mxCell id="pywWxbMTsQQFMJK9H5WN-143" value="（硬盘CPUID+外网公钥）&lt;div&gt;内网私钥签名&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pywWxbMTsQQFMJK9H5WN-115">
           <mxGeometry x="-0.4941" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
