@@ -927,14 +927,6 @@
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-31" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1、硬盘公钥&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2、硬盘私钥&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;3、硬盘证书（内网签名证书）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;4、内网证书&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="415" y="5261" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" source="NUiYikw-NwmU5Gmy6NFf-11" target="NUiYikw-NwmU5Gmy6NFf-15" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-33" value="验证通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-32">
-          <mxGeometry x="0.027" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-34" value="信任链" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="4600" width="60" height="30" as="geometry" />
         </mxCell>
@@ -959,21 +951,13 @@
           <mxGeometry x="50" y="5030" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-48" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="864" y="5000" width="30" height="30" as="geometry" />
+          <mxGeometry x="780" y="5000" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-49" value="信任外网服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="4610" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-50" value="信任硬盘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="5070" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.421;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUiYikw-NwmU5Gmy6NFf-15" target="NUiYikw-NwmU5Gmy6NFf-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-54" value="账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-53">
-          <mxGeometry x="0.3491" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
