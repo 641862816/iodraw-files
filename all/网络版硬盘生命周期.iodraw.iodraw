@@ -916,8 +916,8 @@
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-29" value="1、内网公钥&lt;div&gt;2、内网私钥&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="4790" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-30" value="1、内网证书&lt;div&gt;2、内网签名证书&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="4790" width="106" height="40" as="geometry" />
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-30" value="1、内网证书&lt;div&gt;2、外网证书（内网签名证书）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="4790" width="166" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-31" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1、硬盘公钥&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2、硬盘私钥&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;3、硬盘证书（内网签名证书）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;4、内网证书&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="420" y="5261" width="200" height="119" as="geometry" />
