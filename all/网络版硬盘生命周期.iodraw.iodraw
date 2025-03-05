@@ -779,7 +779,7 @@
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-5" value="&lt;font color=&quot;#ff3333&quot;&gt;（硬盘CPUID+内网证书）&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;内网私钥签名&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-3">
           <mxGeometry x="-0.4941" relative="1" as="geometry">
-            <mxPoint x="375" y="-16" as="offset" />
+            <mxPoint x="495" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -851,9 +851,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="5060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="769" y="4900" />
-              <mxPoint x="740" y="4900" />
-              <mxPoint x="740" y="5030" />
+              <mxPoint x="769" y="5030" />
               <mxPoint x="540" y="5030" />
             </Array>
           </mxGeometry>
