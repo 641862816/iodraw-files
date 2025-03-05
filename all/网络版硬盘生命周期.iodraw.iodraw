@@ -894,7 +894,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="NUiYikw-NwmU5Gmy6NFf-11" target="NUiYikw-NwmU5Gmy6NFf-15" parent="1">
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" target="NUiYikw-NwmU5Gmy6NFf-15" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="5060" as="targetPoint" />
             <Array as="points">
@@ -902,9 +902,10 @@
               <mxPoint x="690" y="5010" />
               <mxPoint x="540" y="5010" />
             </Array>
+            <mxPoint x="690" y="4840" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-28" value="账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-27">
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-28" value="请求证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-27">
           <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
