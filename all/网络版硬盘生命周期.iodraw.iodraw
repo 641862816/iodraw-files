@@ -840,7 +840,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-43">
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-44" value="&lt;font color=&quot;#ff3333&quot;&gt;（硬盘公钥+硬盘信息）内网签名&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-43">
           <mxGeometry x="0.3714" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
