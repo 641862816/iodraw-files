@@ -829,9 +829,10 @@
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-14" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="769" y="4710" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NUiYikw-NwmU5Gmy6NFf-15">
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.303;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NUiYikw-NwmU5Gmy6NFf-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="5180" as="targetPoint" />
+            <mxPoint x="392" y="5184" as="targetPoint" />
+            <mxPoint x="392" y="5104" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
