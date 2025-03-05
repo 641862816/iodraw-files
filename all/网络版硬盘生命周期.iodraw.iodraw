@@ -798,16 +798,16 @@
           <mxGeometry x="290" y="4710" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="4670" width="190" height="170" as="geometry" />
+          <mxGeometry x="674" y="4670" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-12" value="外网云平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584" y="4670" width="90" height="30" as="geometry" />
+          <mxGeometry x="728" y="4670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-13" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="4710" width="60" height="60" as="geometry" />
+          <mxGeometry x="694" y="4710" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-14" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="4710" width="60" height="60" as="geometry" />
+          <mxGeometry x="769" y="4710" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="5010" width="170" height="90" as="geometry" />
@@ -865,7 +865,7 @@
           <mxGeometry x="130" y="4790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-30" value="1、内网证书&lt;div&gt;2、外网证书&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="4790" width="80" height="40" as="geometry" />
+          <mxGeometry x="684" y="4790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-31" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;（硬盘CPUID+内网证书）&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;内网私钥签名&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="5270" width="150" height="35" as="geometry" />
