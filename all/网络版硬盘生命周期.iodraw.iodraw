@@ -928,6 +928,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-42" value="硬盘公钥+硬盘信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-41">
+          <mxGeometry x="0.4344" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
