@@ -952,7 +952,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-46" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="495" y="4610" width="30" height="30" as="geometry" />
+          <mxGeometry x="494" y="4614" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-47" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="5030" width="30" height="30" as="geometry" />
@@ -961,7 +961,7 @@
           <mxGeometry x="780" y="5000" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-49" value="信任外网服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="4610" width="110" height="30" as="geometry" />
+          <mxGeometry x="519" y="4614" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-50" value="信任硬盘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="5070" width="70" height="30" as="geometry" />
