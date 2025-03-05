@@ -788,7 +788,7 @@
             <mxPoint x="674" y="4760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-38" value="外网公钥+信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-35">
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-38" value="（外网公钥+外网信息）内网签名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-35">
           <mxGeometry x="-0.1293" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -811,7 +811,7 @@
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUiYikw-NwmU5Gmy6NFf-11" target="NUiYikw-NwmU5Gmy6NFf-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NUiYikw-NwmU5Gmy6NFf-37" value="外网公钥+信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-36">
+        <mxCell id="NUiYikw-NwmU5Gmy6NFf-37" value="外网公钥+外网信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-36">
           <mxGeometry x="0.1633" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
