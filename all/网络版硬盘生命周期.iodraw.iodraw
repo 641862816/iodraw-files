@@ -850,7 +850,7 @@
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-44" value="&lt;font color=&quot;#ff3333&quot;&gt;（硬盘公钥+硬盘信息）内网签名&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;内网证书&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-43">
           <mxGeometry x="0.3714" y="1" relative="1" as="geometry">
-            <mxPoint y="-7" as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -868,7 +868,7 @@
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-40" value="硬盘公钥+硬盘信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-39">
           <mxGeometry x="0.0989" y="-2" relative="1" as="geometry">
-            <mxPoint y="-18" as="offset" />
+            <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-16" value="量子加密硬盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
