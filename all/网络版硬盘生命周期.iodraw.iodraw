@@ -833,11 +833,11 @@
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.364;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411.1199999999999" y="5190" as="sourcePoint" />
-            <mxPoint x="401" y="5100" as="targetPoint" />
+            <mxPoint x="480.1199999999999" y="5190" as="sourcePoint" />
+            <mxPoint x="470" y="5100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="401" y="5190" />
-              <mxPoint x="401" y="5100" />
+              <mxPoint x="470" y="5190" />
+              <mxPoint x="470" y="5100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -870,8 +870,8 @@
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="456" y="5100" as="sourcePoint" />
-            <mxPoint x="456" y="5190" as="targetPoint" />
+            <mxPoint x="526" y="5100" as="sourcePoint" />
+            <mxPoint x="526" y="5190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUiYikw-NwmU5Gmy6NFf-26" value="USB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUiYikw-NwmU5Gmy6NFf-25">
